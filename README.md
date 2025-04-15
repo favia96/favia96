@@ -10,7 +10,7 @@
 - ❤️ I am passionate about **Computer Vision Engineering, Open-Source, Machine Learning/Deep Learning and Data Science** 🤖
 - 📜 BSc Information and Communications Engineering @[UniTN](https://www.disi.unitn.it/) and MSc Visual Computing Communication @[KTH](https://www.kth.se/en) ([EIT](https://masterschool.eitdigital.eu/) Joint Msc with [UniTN](https://www.disi.unitn.it/)) 🎓
 - 📫 How to reach me: federic.fav@gmail.com | 💼 [Small portfolio](https://favia96.github.io/)
-- 🏠 ~~Mantova(ɪᴛ)~~   ~~Trento(ɪᴛ)~~   ~~Stockholm(sᴇ)~~   Milan(ɪᴛ) 📍
+- 🏠 ~~Mantova(ɪᴛ)~~   ~~Trento(ɪᴛ)~~   ~~Stockholm(sᴇ)~~   Remotely Milan(ɪᴛ) 📍
 - ⚡ Fun facts: I ❤ 🎞️🍿🦸⚽ (⚪⚫) 🏀✏️🎨
 
 
