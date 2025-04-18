@@ -6,7 +6,7 @@
 
 ### About me :rocket:
 
-- 💻 I am a Data Scientist & Machine Learning Engineer (mostly Computer Vision and Deep Learning)  @ ~~XtensaSrl~~ | ~~[ManoMotion AB](https://www.manomotion.com/)~~ | [Technology Reply IT](https://www.reply.com/technology-reply/en/)
+- 💻 I am a Senior Data Scientist & Machine Learning Engineer (mostly Computer Vision and Deep Learning)  @ ~~XtensaSrl~~ | ~~[ManoMotion AB](https://www.manomotion.com/)~~ | [Technology Reply IT](https://www.reply.com/technology-reply/en/)
 - ❤️ I am passionate about **Computer Vision Engineering, Open-Source, Machine Learning/Deep Learning and Data Science** 🤖
 - 📜 BSc Information and Communications Engineering @[UniTN](https://www.disi.unitn.it/) and MSc Visual Computing Communication @[KTH](https://www.kth.se/en) ([EIT](https://masterschool.eitdigital.eu/) Joint Msc with [UniTN](https://www.disi.unitn.it/)) 🎓
 - 📫 How to reach me: federic.fav@gmail.com | 💼 [Small portfolio](https://favia96.github.io/)
